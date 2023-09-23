@@ -27,3 +27,5 @@ app.on('window-all-closed', function () {
 app.on('activate', function () {
     if (mainWindow === null) createWindow();
 });
+
+//test comment
